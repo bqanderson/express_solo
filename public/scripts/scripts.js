@@ -1,5 +1,3 @@
-console.log('Inside Clinet JS');
-
 $(function(){
   getBalance()
 

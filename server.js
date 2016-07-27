@@ -2,7 +2,7 @@ var express = require('express');
 var path = require('path');
 var app = express();
 
-var port = process.env.PORT || 3100;
+var port = process.env.PORT || 3000;
 
 
 var random = require('./modules/random.js')
